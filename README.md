@@ -6,7 +6,8 @@ Tools and technologies<br />
   <li>jsoup</li>
   <li>Gmail API</li>
 </ul>
-Features<br />
+
+Features <br />
 <ul>
   <li>Talk to Type</li>
   <li>Browser navigation (for Chrome)</li>
