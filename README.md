@@ -5,7 +5,7 @@ Tools and technologies<br />
   <li>FreeTTS</li>
   <li>jsoup</li>
   <li>Gmail API</li>
-</ul><br /><br />
+</ul><br />
 Features<br />
 <ul>
   <li>Talk to Type</li>
